@@ -1,4 +1,4 @@
-## 👋 About Me
+## About Me
 
 Aspiring Data Engineer with a strong focus on hands-on learning and real-world projects.
 
