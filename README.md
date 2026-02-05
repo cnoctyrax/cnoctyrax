@@ -4,7 +4,7 @@ Aspiring Data Engineer with a strong focus on hands-on learning and real-world p
 
 Tech stack:
 - Python (Pandas)
-- SQL (in progress)
+- SQL 
 - Git & GitHub
 - ETL pipeline development
 
