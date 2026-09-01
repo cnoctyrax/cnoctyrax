@@ -12,6 +12,26 @@ Everything I ship is typed, tested, async-first, and built to run in prod.
 
 ---
 
+### 🔭 What Drives Me
+
+> I'm obsessed with the intersection of **Data Engineering** and **AI** — building systems that turn raw data into intelligent applications.
+
+<div align="center">
+
+`Artificial Intelligence` `LLM Agents` `Data Engineering` `MLOps` `RAG Systems`\
+`Python` `Databricks` `Apache Spark` `Cloud Architecture` `AI Safety`\
+`Autonomous Systems` `Real-time ML` `Developer Tooling` `Open Source`
+
+</div>
+
+What I think about most:
+- How to make AI systems **reliable enough for production** (not just impressive in demos)
+- Building data platforms that **scale from prototype to millions of records**
+- The gap between ML research and ML engineering — and how to close it
+- AI safety and evaluation — because shipping a model without testing it is shipping a bug
+
+---
+
 ### 🛠️ Tech I Work With
 
 ```python
